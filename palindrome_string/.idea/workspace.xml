@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cddb71cf-68d0-4074-a7a4-eea63e798e64" name="Default Changelist" comment="" />
+    <list default="true" id="cddb71cf-68d0-4074-a7a4-eea63e798e64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1V2K7TWR8r0zoqKLotemiNmxx71" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../factorial_of_number" />
   </component>
   <component name="RunManager">
     <configuration name="palindrome_string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="palindrome_string" TARGET_NAME="palindrome_string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="palindrome_string" RUN_TARGET_NAME="palindrome_string">
@@ -61,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576445582673</updated>
-      <workItem from="1576445584039" duration="1683000" />
+      <workItem from="1576445584039" duration="1706000" />
+      <workItem from="1576473455630" duration="26000" />
     </task>
     <servers />
   </component>
@@ -69,21 +77,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1300" height="163" key="GridCell.Tab.0.bottom" timestamp="1576446243147">
+    <state x="466" y="185" width="424" height="482" key="FileChooserDialogImpl" timestamp="1576473479823">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1300" height="163" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1576446243147" />
-    <state width="1300" height="163" key="GridCell.Tab.0.center" timestamp="1576446243147">
+    <state x="466" y="185" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.741@0.0.1366.741" timestamp="1576473479823" />
+    <state width="1300" height="163" key="GridCell.Tab.0.bottom" timestamp="1576473269502">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1300" height="163" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1576446243147" />
-    <state width="1300" height="163" key="GridCell.Tab.0.left" timestamp="1576446243147">
+    <state width="1300" height="163" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1576473269502" />
+    <state width="1300" height="163" key="GridCell.Tab.0.center" timestamp="1576473269500">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1300" height="163" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1576446243147" />
-    <state width="1300" height="163" key="GridCell.Tab.0.right" timestamp="1576446243147">
+    <state width="1300" height="163" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1576473269500" />
+    <state width="1300" height="163" key="GridCell.Tab.0.left" timestamp="1576473269499">
       <screen x="0" y="0" width="1366" height="741" />
     </state>
-    <state width="1300" height="163" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1576446243147" />
+    <state width="1300" height="163" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1576473269499" />
+    <state width="1300" height="163" key="GridCell.Tab.0.right" timestamp="1576473269501">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1300" height="163" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1576473269501" />
+    <state x="376" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1576473466910">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="376" y="254" key="com.intellij.ide.util.TipDialog/0.0.1366.741@0.0.1366.741" timestamp="1576473466910" />
   </component>
 </project>

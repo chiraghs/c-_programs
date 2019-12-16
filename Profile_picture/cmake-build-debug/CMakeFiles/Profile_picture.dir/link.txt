@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Profile_picture.dir/main.cpp.o  -o Profile_picture 
