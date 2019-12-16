@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zoos_2x_equals_y.dir/main.cpp.o  -o zoos_2x_equals_y 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/seatingrrangement.dir/main.cpp.o  -o seatingrrangement 

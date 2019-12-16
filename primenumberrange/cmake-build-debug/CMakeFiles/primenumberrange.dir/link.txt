@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/primenumberrange.dir/main.cpp.o  -o primenumberrange 
