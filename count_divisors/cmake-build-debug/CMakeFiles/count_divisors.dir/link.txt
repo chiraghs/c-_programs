@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/count_divisors.dir/main.cpp.o  -o count_divisors 
