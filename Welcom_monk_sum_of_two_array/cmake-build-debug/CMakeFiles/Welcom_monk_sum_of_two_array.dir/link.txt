@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Welcom_monk_sum_of_two_array.dir/main.cpp.o  -o Welcom_monk_sum_of_two_array 

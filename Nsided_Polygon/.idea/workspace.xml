@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Nsided_Polygon" targetName="Nsided_Polygon" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b215f2e-437f-42a0-98dc-ab6320654145" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1VBp3neXOQ3nhPMvzZtpeGgcYVy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../day2/Find_missing_digit_from_array" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Nsided_Polygon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Nsided_Polygon" TARGET_NAME="Nsided_Polygon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Nsided_Polygon" RUN_TARGET_NAME="Nsided_Polygon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b215f2e-437f-42a0-98dc-ab6320654145" name="Default Changelist" comment="" />
+      <created>1576736145977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576736145977</updated>
+      <workItem from="1576736148252" duration="2761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="127" width="424" height="482" key="FileChooserDialogImpl" timestamp="1576738008904">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="466" y="127" width="424" height="482" key="FileChooserDialogImpl/0.0.1366.741@0.0.1366.741" timestamp="1576738008904" />
+    <state width="1320" height="220" key="GridCell.Tab.0.bottom" timestamp="1576738909132">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1576738909132" />
+    <state width="1320" height="220" key="GridCell.Tab.0.center" timestamp="1576738909131">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1576738909131" />
+    <state width="1320" height="220" key="GridCell.Tab.0.left" timestamp="1576738909131">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1576738909131" />
+    <state width="1320" height="220" key="GridCell.Tab.0.right" timestamp="1576738909131">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1576738909131" />
+    <state width="1320" height="220" key="GridCell.Tab.1.bottom" timestamp="1576738909132">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.1.bottom/0.0.1366.741@0.0.1366.741" timestamp="1576738909132" />
+    <state width="1320" height="220" key="GridCell.Tab.1.center" timestamp="1576738909132">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.1.center/0.0.1366.741@0.0.1366.741" timestamp="1576738909132" />
+    <state width="1320" height="220" key="GridCell.Tab.1.left" timestamp="1576738909132">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.1.left/0.0.1366.741@0.0.1366.741" timestamp="1576738909132" />
+    <state width="1320" height="220" key="GridCell.Tab.1.right" timestamp="1576738909132">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="220" key="GridCell.Tab.1.right/0.0.1366.741@0.0.1366.741" timestamp="1576738909132" />
+    <state x="242" y="108" width="871" height="520" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576737382363">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="242" y="108" width="871" height="520" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.741@0.0.1366.741" timestamp="1576737382363" />
+  </component>
+</project>

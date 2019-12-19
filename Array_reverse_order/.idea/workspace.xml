@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Array_reverse_order" targetName="Array_reverse_order" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98ffc064-6787-4b68-9a0e-ff7160049e7b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Find_missing_digit_from_array/.idea/Find_missing_digit_from_array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Array_reverse_order" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Array_reverse_order" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Array_reverse_order.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Array_reverse_order.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1V52xkEIWxrd52hnqFeDVuI28n6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Array_reverse_order" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Array_reverse_order" TARGET_NAME="Array_reverse_order" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Array_reverse_order" RUN_TARGET_NAME="Array_reverse_order">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98ffc064-6787-4b68-9a0e-ff7160049e7b" name="Default Changelist" comment="" />
+      <created>1576528883168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576528883168</updated>
+      <workItem from="1576528884574" duration="1311000" />
+      <workItem from="1576574163440" duration="2259000" />
+      <workItem from="1576645364967" duration="907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom" timestamp="1576653269043">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.bottom/0.0.1366.741@0.0.1366.741" timestamp="1576653269043" />
+    <state width="1320" height="2" key="GridCell.Tab.0.center" timestamp="1576653269042">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.center/0.0.1366.741@0.0.1366.741" timestamp="1576653269042" />
+    <state width="1320" height="2" key="GridCell.Tab.0.left" timestamp="1576653269035">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.left/0.0.1366.741@0.0.1366.741" timestamp="1576653269035" />
+    <state width="1320" height="2" key="GridCell.Tab.0.right" timestamp="1576653269043">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.0.right/0.0.1366.741@0.0.1366.741" timestamp="1576653269043" />
+    <state width="1320" height="2" key="GridCell.Tab.1.bottom" timestamp="1576592506352">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.bottom/0.0.1366.741@0.0.1366.741" timestamp="1576592506352" />
+    <state width="1320" height="2" key="GridCell.Tab.1.center" timestamp="1576592506351">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.center/0.0.1366.741@0.0.1366.741" timestamp="1576592506351" />
+    <state width="1320" height="2" key="GridCell.Tab.1.left" timestamp="1576592506351">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.left/0.0.1366.741@0.0.1366.741" timestamp="1576592506351" />
+    <state width="1320" height="2" key="GridCell.Tab.1.right" timestamp="1576592506352">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state width="1320" height="2" key="GridCell.Tab.1.right/0.0.1366.741@0.0.1366.741" timestamp="1576592506352" />
+    <state x="376" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1576574164644">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="376" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.741@0.0.1366.741" timestamp="1576574164644" />
+    <state x="357" y="62" width="641" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576575091898">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="357" y="62" width="641" height="613" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.741@0.0.1366.741" timestamp="1576575091898" />
+    <state x="347" y="162" key="run.anything.popup" timestamp="1576529747683">
+      <screen x="0" y="0" width="1366" height="741" />
+    </state>
+    <state x="347" y="162" key="run.anything.popup/0.0.1366.741@0.0.1366.741" timestamp="1576529747683" />
+  </component>
+</project>
