@@ -1,0 +1,3 @@
+/home/chiraghs/CLionProjects/day3/arrays_multidimensional/Alternate_array_elements_sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chiraghs/CLionProjects/day3/arrays_multidimensional/Alternate_array_elements_sum/cmake-build-debug/CMakeFiles/Alternate_array_elements_sum.dir
+/home/chiraghs/CLionProjects/day3/arrays_multidimensional/Alternate_array_elements_sum/cmake-build-debug/CMakeFiles/edit_cache.dir

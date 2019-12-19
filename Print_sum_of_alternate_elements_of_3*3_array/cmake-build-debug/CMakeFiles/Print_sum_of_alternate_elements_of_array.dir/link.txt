@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Print_sum_of_alternate_elements_of_array.dir/main.cpp.o  -o Print_sum_of_alternate_elements_of_array 

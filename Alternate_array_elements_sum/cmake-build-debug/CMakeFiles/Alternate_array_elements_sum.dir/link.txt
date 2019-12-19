@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Alternate_array_elements_sum.dir/main.cpp.o  -o Alternate_array_elements_sum 

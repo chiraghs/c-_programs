@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Symmetric_logo.dir/main.cpp.o  -o Symmetric_logo 

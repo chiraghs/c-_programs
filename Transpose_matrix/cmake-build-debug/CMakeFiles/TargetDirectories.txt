@@ -1,0 +1,3 @@
+/home/chiraghs/CLionProjects/day3/Transpose_matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chiraghs/CLionProjects/day3/Transpose_matrix/cmake-build-debug/CMakeFiles/Transpose_matrix.dir
+/home/chiraghs/CLionProjects/day3/Transpose_matrix/cmake-build-debug/CMakeFiles/edit_cache.dir

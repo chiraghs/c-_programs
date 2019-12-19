@@ -1,0 +1,3 @@
+/home/chiraghs/CLionProjects/day3/Symmetric_logo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chiraghs/CLionProjects/day3/Symmetric_logo/cmake-build-debug/CMakeFiles/Symmetric_logo.dir
+/home/chiraghs/CLionProjects/day3/Symmetric_logo/cmake-build-debug/CMakeFiles/edit_cache.dir
