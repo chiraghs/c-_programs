@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/stock_span.dir/main.cpp.o  -o stock_span 
