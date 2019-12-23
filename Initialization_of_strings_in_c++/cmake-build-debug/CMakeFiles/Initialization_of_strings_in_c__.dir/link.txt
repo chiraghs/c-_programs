@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Initialization_of_strings_in_c__.dir/main.cpp.o  -o Initialization_of_strings_in_c__ 
