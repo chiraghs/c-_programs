@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Initialization_advanced_geeks.dir/main.cpp.o  -o Initialization_advanced_geeks 

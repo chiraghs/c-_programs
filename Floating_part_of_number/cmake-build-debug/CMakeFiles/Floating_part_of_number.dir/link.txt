@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Floating_part_of_number.dir/main.cpp.o  -o Floating_part_of_number 
