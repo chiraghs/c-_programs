@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Near_to_A_divisible_by_B.dir/main.cpp.o  -o Near_to_A_divisible_by_B 
